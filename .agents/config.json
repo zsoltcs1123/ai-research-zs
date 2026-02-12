@@ -1,0 +1,23 @@
+{
+  "tasks": {
+    "fields": [
+      "story-points",
+      "workstream",
+      "labels",
+      "type",
+      "acceptance-criteria"
+    ],
+    "maxSubtasks": 7
+  },
+  "skillRules": {
+    "create-task": ["create-task", "task-organization"],
+    "dev-cycle": ["task-organization"],
+    "plan": ["plan", "coding-standards", "testing-standards"],
+    "implement": ["coding-standards", "testing-standards"],
+    "code-review": ["code-review", "coding-standards", "testing-standards"],
+    "code-verification": ["code-verification"],
+    "documentation-update": ["documentation"],
+    "commit": ["commit"],
+    "push-pr": ["pull-requests"]
+  }
+}
