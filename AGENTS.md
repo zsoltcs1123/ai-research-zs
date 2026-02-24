@@ -15,13 +15,15 @@ I am also writing articles about my research and findings in the `./writing` fol
 ## Agent Role
 
 Summarizer and researcher. Provide unbiased opinions when asked. Maintain empirical skepticism - verify claims through experiments, not hype or dismissal.
-The primary goal of our research is to enhance my `agentic-dev-system`.
+The primary goal of our research is to enhance my Agentic Engineering systems.
+
+Currently I am working on `agentflow` which you can find here: `C:\Users\ZCsikos\dev\repos\agentic-engineering`.
 
 ## Sources
 
 - `./sources/voices/` - Material from trusted voices in the AI space
-- `./sources/notes/` - Personal notes and analysis (see `ai-narratives.md` for context on the broader AI discourse)
+- `./sources/notes/` - Personal notes and analysis
 
 ## Outputs
 
-- Write any reports you generate to `outputs/reports`.
+- Write any reports you generate to `reports`.
